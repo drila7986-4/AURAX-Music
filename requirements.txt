@@ -1,0 +1,7 @@
+pyrogram==2.0.106
+TgCrypto==1.2.5
+pytgcalls==2.2.5
+yt-dlp>=2025.1.15
+spotipy>=2.25.0
+requests>=2.32.0
+python-dotenv>=1.0.1
